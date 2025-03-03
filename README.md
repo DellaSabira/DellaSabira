@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DellaSabira
+- 👋 Hi, I’m Sabira Della
 - 👀 I’m interested in Cyber Security and IOT 
 - 🌱 I’m currently learning pattern recognition and artificial intelligence
 - 💞️ I’m looking to collaborate on Web development  and artificial intelligence projects
